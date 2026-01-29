@@ -27,3 +27,11 @@ Below are a few places I'd like to visit, why I would like to visit them, along 
 |Glascow, Scotland|I have a friend that lives about 20 miles North of Glasbow and would love to visit them someday.| 4,001.07 mi|~$800|
 |New York, NY |A dream of mine is to be in NYC during Christmas time. For the Home Alone of it all but also I really would love to be in a city like that during the holiday season. |1,095.85 mi| ~$1200|
 |Oaxaca, Mexico|It would be very nice to visit my grandparents and get to explore more of my heritage and culture that I haven't gotten much first hand experience on.|3,228.64 mi|~$500|
+
+***
+## Favorite Lyrics/Quotes
+> You look like a movie, you sound like a song <br>
+>My God this reminds me of when we were young
+>  _-_ *Adele*
+
+> I'm too classy for this world, forever, I'm that girl<br>Feed you diamonds and pearls, ooh, baby<br>I'm too classy to be touched, I paid them all in dust<br>I'm stingy with my love, ooh, baby _-_ *Beyoncé*
