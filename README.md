@@ -35,3 +35,14 @@ Below are a few places I'd like to visit, why I would like to visit them, along 
 >  _-_ *Adele*
 
 > I'm too classy for this world, forever, I'm that girl<br>Feed you diamonds and pearls, ooh, baby<br>I'm too classy to be touched, I paid them all in dust<br>I'm stingy with my love, ooh, baby _-_ *Beyoncé*
+
+***
+## NOT (SQL)
+"This NOT SQL sample code snippet displays a record if the condition(s) is NOT TRUE."
+
+```
+SELECT column1, column2, ...
+FROM table_name
+WHERE NOT condition;
+```
+SQL Snippets: <https://pieces.app/collections/sql>
