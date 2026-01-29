@@ -13,3 +13,5 @@ FLO is an excellent British girl group/band that incorporates R&B throughout a n
 * They Both Die at the End
 * A Court of Thorns and Roses
 * All That's Left in the World
+
+**[Check Out My Favorite Location](MyLocation.md)**
